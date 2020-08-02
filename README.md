@@ -22,12 +22,19 @@ Info| Beispiel-links: Steam:"steam://rungameid/123456";Uplay:"uplay://launch/123
 "hotkey.name1"="*Eingabe*"	|Hier geben sie zu dem entsprechenden Hotkey den passenden Anzeigenamen an.
 
 1.7 Die Hotkey verteilung sieht wie folgt aus:
+
 Steam Hotkeys: 			01-15;
+
 Uplay Hotkeys: 			16-20;
+
 Origin Hotkeys: 		21-25; 
+
 ACHTUNG: Die aktuelle Version des Launcher könnte bei Origin Hotkeys ein fehlerhaftes verhalten hervorheben.
+
 Rockstar Games Hotkeys: 26-30;
+
 Battlenet Hotkeys: 		31-35;
+
 Sonstige Hotkeys: 		36-40;
 
 1.8 So können sie sich die hotkeys nach belieben konfigurieren.
