@@ -15,6 +15,7 @@ Info| Beispiel-links: Steam:"steam://rungameid/123456";Uplay:"uplay://launch/123
 1.4 Öffnen sie den Installationspfad vom Game-Launcher. Standardpfad:"C:\Users\*Username*\AppData\Roaming\Game-Launcher\"
 
 1.5 Öffnen sie die Datei "ConfigSystem.cfg" mit einem beliebigen Editor.
+
 1.6 Das Config System ist folgendermaßen aufgebaut:
 
 "hotkey.1"="*Eingabe*"		|Hier fügen sie das kopierte Feld "URL" von Schritt 1.3 ein.
@@ -23,7 +24,8 @@ Info| Beispiel-links: Steam:"steam://rungameid/123456";Uplay:"uplay://launch/123
 1.7 Die Hotkey verteilung sieht wie folgt aus:
 Steam Hotkeys: 			01-15;
 Uplay Hotkeys: 			16-20;
-Origin Hotkeys: 		21-25; || ACHTUNG: Die aktuelle Version des Launcher könnte bei Origin Hotkeys ein fehlerhaftes verhalten hervorheben.
+Origin Hotkeys: 		21-25; 
+ACHTUNG: Die aktuelle Version des Launcher könnte bei Origin Hotkeys ein fehlerhaftes verhalten hervorheben.
 Rockstar Games Hotkeys: 26-30;
 Battlenet Hotkeys: 		31-35;
 Sonstige Hotkeys: 		36-40;
