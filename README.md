@@ -29,8 +29,6 @@ Uplay Hotkeys: 			16-20;
 
 Origin Hotkeys: 		21-25; 
 
-ACHTUNG: Die aktuelle Version des Launcher könnte bei Origin Hotkeys ein fehlerhaftes verhalten hervorheben.
-
 Rockstar Games Hotkeys: 26-30;
 
 Battlenet Hotkeys: 		31-35;
